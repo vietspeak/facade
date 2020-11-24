@@ -6,8 +6,8 @@
             <div class="header-wrapper" id="header-wrapper">
                 <div class="header-left">
                     <div class="logo">
-                        <a href="index.html">
-                            <img src="assets/images/logo/logo.png" alt="Creative Agency Logo">
+                        <a href="/">
+                            <img src="assets/logo3.png" alt="VietSpeak community" width = "200">
                         </a>
                     </div>
                 </div>
@@ -130,7 +130,7 @@
                                         </div>
                                         <div class="content">
                                             <h3 class="title">Chủ trương</h3>
-                                            <p>Cộng đồng VietSpeak miễn phí,thân thiện nhưng có tính kỉ luật cao, đề cao tự giác tự nguyện.</p>
+                                            <p>Cộng đồng VietSpeak non-profit,thân thiện, kỉ luật, đề cao tự giác và tự nguyện.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -144,7 +144,7 @@
                                         </div>
                                         <div class="content">
                                             <h3 class="title">Sự khác biệt ?</h3>
-                                            <p>Cộng đồng luyện nói trên VietSpeak kết nối người Việt học và sử dụng tiếng Anh khắp năm châu. Just us, free, bạn sẽ tiến bộ bằng cách luyện cơ miệng hàng tuần, áp lực ghê gớm đấy!</p>
+                                            <p>Cộng đồng luyện nói trên VietSpeak kết nối người Việt học và sử dụng tiếng Anh khắp năm châu. Join us, free, bạn sẽ tiến bộ bằng cách luyện cơ miệng hàng tuần, áp lực ghê gớm đấy!</p>
                                         </div>
                                     </div>
                                 </div>
