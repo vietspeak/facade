@@ -101,7 +101,7 @@
                         <div class="row">
                             <div class="col-lg-12">
                                 <div class="inner">
-                                    <h1 class="title theme-gradient">VietSpeak </h1> <br><h2 class="title theme-gradient"> community</h2>
+                                    <h1 class="title theme-gradient">VietSpeak </h1> <br><h2 class="title theme-gradient"> town</h2>
                                 </div>
                             </div>
                         </div>
@@ -116,7 +116,7 @@
                                         </div>
                                         <div class="content">
                                             <h3 class="title">Mục tiêu</h3>
-                                            <p>VietSpeak giúp bạn nói tiếng anh thành thạo, thuần thục thông qua luyện đọc.</p>
+                                            <p class = "font-jost">VietSpeak giúp bạn nói tiếng anh thành thạo, thuần thục thông qua luyện đọc.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -130,7 +130,7 @@
                                         </div>
                                         <div class="content">
                                             <h3 class="title">Chủ trương</h3>
-                                            <p>Cộng đồng VietSpeak non-profit,thân thiện, kỉ luật, đề cao tự giác và tự nguyện.</p>
+                                            <p class = "font-jost">Cộng đồng VietSpeak non-profit,thân thiện, kỉ luật, đề cao tự giác và tự nguyện.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -144,7 +144,7 @@
                                         </div>
                                         <div class="content">
                                             <h3 class="title">Sự khác biệt ?</h3>
-                                            <p>Cộng đồng luyện nói trên VietSpeak kết nối người Việt học và sử dụng tiếng Anh khắp năm châu. Join us, free, bạn sẽ tiến bộ bằng cách luyện cơ miệng hàng tuần, áp lực ghê gớm đấy!</p>
+                                            <p class = "font-jost">Cộng đồng luyện nói trên VietSpeak kết nối người Việt học và sử dụng tiếng Anh khắp năm châu. Join us, free, bạn sẽ tiến bộ bằng cách luyện cơ miệng hàng tuần, áp lực ghê gớm đấy!</p>
                                         </div>
                                     </div>
                                 </div>
@@ -172,7 +172,7 @@
                                 <div class="about-inner inner">
                                     <div class="section-title">
                                         <h2 class="title">About</h2>
-                                        <p class="description">There are many variations of passages of Lorem Ipsum
+                                        <p class="description font-jost">There are many variations of passages of Lorem Ipsum
                                             available, but the majority have suffered alteration in some form, by
                                             injected humour, or randomised words which dont look even slightly
                                             believable. If you are going to use a passage of Lorem Ipsum,</p>
@@ -181,14 +181,14 @@
                                         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                                             <div class="about-us-list">
                                                 <h3 class="title">Who we are</h3>
-                                                <p>There are many vtions of passages of Lorem Ipsum available, but the
+                                                <p class = "font-jost">There are many vtions of passages of Lorem Ipsum available, but the
                                                     majority have suffered.</p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                                             <div class="about-us-list">
                                                 <h3 class="title">Who we are</h3>
-                                                <p>There are many vtions of passages of Lorem Ipsum available, but the
+                                                <p class = "font-jost">There are many vtions of passages of Lorem Ipsum available, but the
                                                     majority have suffered.</p>
                                             </div>
                                         </div>
@@ -208,7 +208,7 @@
                         <div class="col-lg-4 col-12">
                             <div class="section-title text-left mt--30 mt_md--5 mt_mobile--5 mb_mobile--10">
                                 <h2 class="title">Services</h2>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have
+                                <p class = "font-jost">There are many variations of passages of Lorem Ipsum available, but the majority have
                                     suffered alteration.</p>
                                 <div class="service-btn"><a class="btn-transparent rn-btn-dark" href="/service"><span
                                             class="text">Request Custom Service</span></a></div>
@@ -227,7 +227,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="title">Business Stratagy</h3>
-                                                    <p>I throw myself down among the tall grass by the stream as I lie
+                                                    <p class = "font-jost">I throw myself down among the tall grass by the stream as I lie
                                                         close to
                                                         the earth.</p>
                                                 </div>
@@ -247,7 +247,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="title">Website Development</h3>
-                                                    <p>I throw myself down among the tall grass by the stream as I lie
+                                                    <p class = "font-jost">I throw myself down among the tall grass by the stream as I lie
                                                         close to
                                                         the earth.</p>
                                                 </div>
@@ -267,7 +267,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="title">Marketing & Reporting</h3>
-                                                    <p>I throw myself down among the tall grass by the stream as I lie
+                                                    <p class = "font-jost">I throw myself down among the tall grass by the stream as I lie
                                                         close to
                                                         the earth.</p>
                                                 </div>
@@ -287,7 +287,7 @@
                                                 </div>
                                                 <div class="content">
                                                     <h3 class="title">Mobile Development</h3>
-                                                    <p>I throw myself down among the tall grass by the stream as I lie
+                                                    <p class = "font-jost">I throw myself down among the tall grass by the stream as I lie
                                                         close to
                                                         the earth.</p>
                                                 </div>
@@ -311,7 +311,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="section-title text-center">
-                                <h3 class="fontWeight500">Một số thống kê:</h3>
+                                <h3 class="fontWeight500 m-y-2 font-jost">Một số thống kê:</h3>
                             </div>
                         </div>
                     </div>
@@ -356,10 +356,10 @@
                             <div class="rn-testimonial-content tab-content" id="myTabContent">
                                 <div class="tab-pane fade show active" id="tab1" role="tabpanel" aria-labelledby="tab1-tab">
                                     <div class="inner">
-                                        <p>"Học chết bỏ, tưởng dễ thở, ai ngờ các bố Việt Speak kỉ luật phát ớn. Mà free nghen".</p>
+                                        <p class = "font-jost">"Học chết bỏ, tưởng dễ thở, ai ngờ các bố Việt Speak kỉ luật phát ớn. Mà free nghen".</p>
                                     </div>
                                     <div class="author-info">
-                                        <h6><span>Hiếu Nguyễn </span> Kế toán đẹp trai, hát hay, Hà Nội.</h6>
+                                        <h6 class = "font-jost"><span class = "font-jost">Hiếu Nguyễn </span> Kế toán đẹp trai, hát hay, Hà Nội.</h6>
                                     </div>
                                 </div>
                                 <div class="tab-pane fade" id="tab2" role="tabpanel" aria-labelledby="tab2-tab">
@@ -647,7 +647,7 @@
                             <div class="inner">
                                 <span>Sẵn sàng tham gia rồi chứ? 
                                 </span>
-                                <h2>Nói tiếng Anh <br /> bằng cách đọc to thôi bồ tèo!</h2>
+                                <h2 class = "font-jost">Nói tiếng Anh <br /> bằng cách đọc to thôi bồ tèo!</h2>
                                     <a class="rn-button-style--2" href="https://airtable.com/shr9lanI3t9jJ3STm">
                                         <span>Join us</span>
                                     </a>
@@ -713,7 +713,7 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
+
 <style scoped>
 
 </style>

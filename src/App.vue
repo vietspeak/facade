@@ -6,7 +6,8 @@
 </template>
 
 <script>
-import HomePage from './components/HomePage.vue'
+import HomePage from './components/HomePage.vue';
+
 
 export default {
   name: 'app',
@@ -17,6 +18,16 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+:root{
+  --font-main: 'Jost', sans-serif;
+}
+
+.font-jost{
+  font-family: var(--font-main);
+}
+
 #app {
  
 }
